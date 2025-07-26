@@ -21,7 +21,7 @@
  * Theme 2
  */
 .color-theme-2 .dropdown-menu {
-  background-color: #141414;
+  background-color: #2d3143;
   border-color: #272a3a;
 }
 .color-theme-2 .dropdown-menu .dropdown-caret .caret-inner {
@@ -53,10 +53,10 @@
 }
 .book.color-theme-2 .book-body {
   color: #bdcadb;
-  background: #141414;
+  background: #1c1f2b;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section {
-  background: #141414;
+  background: #1c1f2b;
 }
 .book.font-size-0 .book-body .page-inner section {
   font-size: 1.2rem;
@@ -146,10 +146,10 @@
   border-color: #373b4e;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h6 {
-  color: #141414;
+  color: #373b4e;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal hr {
-  background-color: #141414;
+  background-color: #373b4e;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal blockquote {
   border-color: #373b4e;
@@ -157,7 +157,7 @@
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal pre,
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal code {
   color: #9dbed8;
-  background: #141414;
+  background: #2d3143;
   border-color: #2d3143;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal .highlight {
@@ -169,11 +169,11 @@
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table tr {
   color: #b6c2d2;
-  background-color: #141414;
+  background-color: #2d3143;
   border-color: #3b3f54;
 }
 .book.color-theme-2 .book-body .page-wrapper .page-inner section.normal table tr:nth-child(2n) {
-  background-color: #141414;
+  background-color: #35394b;
 }
 .book.color-theme-1 .book-header {
   color: #afa790;
@@ -257,7 +257,7 @@
  */
 .book.color-theme-2 .book-summary {
   color: #bcc1d2;
-  background: #0b0b0b;
+  background: #2d3143;
   border-right: none;
 }
 .book.color-theme-2 .book-summary .book-search {
@@ -286,6 +286,6 @@
 .book.color-theme-2 .book-summary ul.summary li.active > a,
 .book.color-theme-2 .book-summary ul.summary li a:hover {
   color: #f4f4f5;
-  background: #232323;
+  background: #252737;
   font-weight: 600;
 }
